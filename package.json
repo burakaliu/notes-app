@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react-markdown": "^9.0.1",
     "react-select": "^5.8.0",
     "uuid": "^9.0.1"
   },
