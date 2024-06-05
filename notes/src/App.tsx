@@ -54,7 +54,7 @@ function App() {
     })
   }
 
-  function addTag(tag: tag){
+  function addTag(tag: Tag){
     setTags(prevTags => [...prevTags, tag])
   }
 
